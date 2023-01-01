@@ -2,7 +2,7 @@
 
 ## Description
 
-This schedule is designed to help you master the Java programming language in 60 days. The plan covers the basics of programming and moves on to more advanced topics such as object-oriented programming, Java frameworks, and Android development. By the end of the schedule, you will have a solid understanding of Java and experience building applications with it.
+This repository contains a learning schedule that is designed to help you master the Java programming language in 60 days. The plan covers the basics of programming and moves on to more advanced topics such as object-oriented programming, Java frameworks, and Android development. By the end of the schedule, you will have a solid understanding of Java and experience building applications with it. The goal of this repository is to help you understand the Java programming language better and provide practical experience in building applications with it. The benefits you will gain from following this schedule are a solid understanding of Java and practical experience in building applications with the language. The end result you will achieve after following this schedule is the ability to understand the Java programming language well and build applications using it.
 
 ## Schedule
   ### Month 1
