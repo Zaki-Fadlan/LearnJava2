@@ -49,6 +49,9 @@ This repository contains a learning schedule that is designed to help you master
 - Java
 - IntelliJ (IDE)
 
+## Structure
+
+
 ## Usage
 
 To use this project, follow these steps:
